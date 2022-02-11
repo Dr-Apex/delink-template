@@ -1,0 +1,17 @@
+{
+  "username": "alex",
+  "links": [
+    {
+      "name": "Spotify",
+      "url": "https://www.spotify.com/in-en/"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/"
+    }
+  ]
+}
